@@ -1,0 +1,28 @@
+.home {
+  background-image: url("../images/Home.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.nav-li {
+  font-family: "tahoma";
+  font-size: 20px;
+  color: #fff;
+  padding-left: 15px;
+}
+
+.addheart:hover {
+  transition: all 1s;
+  color: red;
+  transform: scale(1.5);
+}
+
+.remheart {
+  color: red;
+}
+
+.remheart:hover {
+  transition: all 1s;
+
+  transform: scale(1.5);
+}
